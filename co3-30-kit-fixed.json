@@ -2,47 +2,47 @@
   {
     "content": "Here's",
     "start": 90,
-    "duration": 239
+    "duration": 269
   },
   {
     "content": "a",
-    "start": 330,
-    "duration": 29
+    "start": 360,
+    "duration": 89
   },
   {
     "content": "stat",
-    "start": 360,
-    "duration": 239
+    "start": 450,
+    "duration": 269
   },
   {
     "content": "that",
-    "start": 600,
+    "start": 720,
     "duration": 119
   },
   {
     "content": "might",
-    "start": 720,
-    "duration": 149
+    "start": 840,
+    "duration": 269
   },
   {
     "content": "blow",
-    "start": 870,
+    "start": 1110,
     "duration": 179
   },
   {
     "content": "your",
-    "start": 1050,
-    "duration": 119
+    "start": 1290,
+    "duration": 149
   },
   {
-    "content": "mind.",
-    "start": 1170,
-    "duration": 329
+    "content": "mind:",
+    "start": 1440,
+    "duration": 299
   },
   {
     "content": "71%",
-    "start": 1950,
-    "duration": 984
+    "start": 2220,
+    "duration": 719
   },
   {
     "content": "of",
@@ -52,371 +52,361 @@
   {
     "content": "consumers",
     "start": 3060,
-    "duration": 539
+    "duration": 449
   },
   {
     "content": "say",
-    "start": 3600,
-    "duration": 209
+    "start": 3510,
+    "duration": 179
   },
   {
     "content": "brand",
-    "start": 3810,
-    "duration": 389
+    "start": 3690,
+    "duration": 359
   },
   {
     "content": "trust",
-    "start": 4200,
-    "duration": 329
+    "start": 4050,
+    "duration": 299
   },
   {
     "content": "is",
-    "start": 4530,
+    "start": 4350,
     "duration": 119
   },
   {
     "content": "more",
-    "start": 4650,
-    "duration": 179
+    "start": 4470,
+    "duration": 299
   },
   {
     "content": "important",
-    "start": 4830,
-    "duration": 329
+    "start": 4770,
+    "duration": 359
   },
   {
     "content": "to",
-    "start": 5160,
+    "start": 5130,
     "duration": 89
   },
   {
     "content": "them",
-    "start": 5250,
-    "duration": 179
-  },
-  {
-    "content": "now",
-    "start": 5430,
-    "duration": 209
-  },
-  {
-    "content": "than",
-    "start": 5640,
-    "duration": 119
-  },
-  {
-    "content": "ever.",
-    "start": 5760,
-    "duration": 359
-  },
-  {
-    "content": "So",
-    "start": 6660,
+    "start": 5220,
     "duration": 149
   },
   {
+    "content": "now",
+    "start": 5370,
+    "duration": 359
+  },
+  {
+    "content": "than",
+    "start": 5730,
+    "duration": 209
+  },
+  {
+    "content": "ever.",
+    "start": 5940,
+    "duration": 329
+  },
+  {
+    "content": "So",
+    "start": 6750,
+    "duration": 269
+  },
+  {
     "content": "if",
-    "start": 6810,
+    "start": 7020,
     "duration": 119
   },
   {
     "content": "your",
-    "start": 6930,
-    "duration": 209
+    "start": 7140,
+    "duration": 149
   },
   {
     "content": "brand",
-    "start": 7140,
-    "duration": 299
+    "start": 7290,
+    "duration": 269
   },
   {
     "content": "feels",
-    "start": 7440,
-    "duration": 329
+    "start": 7560,
+    "duration": 239
   },
   {
     "content": "disjointed,",
-    "start": 7770,
-    "duration": 629
+    "start": 7800,
+    "duration": 509
   },
   {
     "content": "you",
-    "start": 8580,
+    "start": 8550,
     "duration": 149
   },
   {
     "content": "might",
-    "start": 8730,
-    "duration": 239
+    "start": 8700,
+    "duration": 209
   },
   {
     "content": "be",
-    "start": 8970,
+    "start": 8910,
     "duration": 89
   },
   {
     "content": "losing",
-    "start": 9060,
-    "duration": 299
+    "start": 9000,
+    "duration": 239
   },
   {
-    "content": "customers,",
-    "start": 9360,
-    "duration": 599
+    "content": "customers.",
+    "start": 9240,
+    "duration": 569
   },
   {
     "content": "but",
-    "start": 10500,
-    "duration": 329
+    "start": 10320,
+    "duration": 239
   },
   {
     "content": "HubSpot's",
-    "start": 11250,
-    "duration": 809
+    "start": 10620,
+    "duration": 569
   },
   {
     "content": "free",
-    "start": 12240,
-    "duration": 329
+    "start": 11190,
+    "duration": 299
   },
   {
     "content": "\"How",
-    "start": 12570,
-    "duration": 149
+    "start": 11580,
+    "duration": 239
   },
   {
     "content": "to",
-    "start": 12720,
-    "duration": 89
+    "start": 11820,
+    "duration": 149
   },
   {
     "content": "Build",
-    "start": 12810,
-    "duration": 179
+    "start": 11970,
+    "duration": 269
   },
   {
     "content": "Your",
-    "start": 12990,
+    "start": 12240,
     "duration": 149
   },
   {
     "content": "Brand",
-    "start": 13140,
+    "start": 12390,
     "duration": 329
   },
   {
     "content": "Guide\"",
-    "start": 13470,
-    "duration": 329
+    "start": 12720,
+    "duration": 299
   },
   {
     "content": "walks",
-    "start": 14040,
-    "duration": 359
+    "start": 13320,
+    "duration": 329
   },
   {
     "content": "you",
-    "start": 14400,
-    "duration": 89
+    "start": 13650,
+    "duration": 149
   },
   {
     "content": "through",
-    "start": 14490,
+    "start": 13800,
     "duration": 239
   },
   {
     "content": "creating",
-    "start": 14730,
-    "duration": 389
+    "start": 14040,
+    "duration": 359
   },
   {
     "content": "that",
-    "start": 15120,
-    "duration": 119
+    "start": 14400,
+    "duration": 179
   },
   {
     "content": "identity",
-    "start": 15240,
-    "duration": 479
+    "start": 14580,
+    "duration": 389
   },
   {
     "content": "you",
-    "start": 15720,
-    "duration": 89
+    "start": 14970,
+    "duration": 119
   },
   {
     "content": "might",
-    "start": 15810,
-    "duration": 268
-  },
-  {
-    "content": "be",
-    "start": 16079,
-    "duration": 90
-  },
-  {
-    "content": "missing",
-    "start": 16170,
-    "duration": 479
-  },
-  {
-    "content": "and",
-    "start": 17010,
+    "start": 15090,
     "duration": 209
   },
   {
+    "content": "be",
+    "start": 15300,
+    "duration": 89
+  },
+  {
+    "content": "missing",
+    "start": 15390,
+    "duration": 389
+  },
+  {
+    "content": "and",
+    "start": 16020,
+    "duration": 179
+  },
+  {
     "content": "builds",
-    "start": 17220,
+    "start": 16200,
     "duration": 269
   },
   {
     "content": "real",
-    "start": 17490,
-    "duration": 329
+    "start": 16470,
+    "duration": 179
   },
   {
     "content": "trust",
-    "start": 17820,
-    "duration": 329
+    "start": 16650,
+    "duration": 269
   },
   {
     "content": "with",
-    "start": 18150,
-    "duration": 149
+    "start": 16920,
+    "duration": 119
   },
   {
     "content": "your",
-    "start": 18300,
+    "start": 17040,
     "duration": 119
   },
   {
     "content": "audience.",
-    "start": 18450,
-    "duration": 539
+    "start": 17160,
+    "duration": 509
   },
   {
     "content": "You",
-    "start": 19350,
-    "duration": 119
+    "start": 18030,
+    "duration": 149
   },
   {
     "content": "get",
-    "start": 19470,
-    "duration": 179
+    "start": 18180,
+    "duration": 239
   },
   {
     "content": "worksheets",
-    "start": 19650,
-    "duration": 569
+    "start": 18420,
+    "duration": 509
   },
   {
     "content": "to",
-    "start": 20220,
-    "duration": 89
+    "start": 18930,
+    "duration": 119
   },
   {
     "content": "define",
-    "start": 20310,
-    "duration": 359
+    "start": 19050,
+    "duration": 329
   },
   {
     "content": "your",
-    "start": 20670,
+    "start": 19380,
     "duration": 149
   },
   {
     "content": "brand",
-    "start": 20820,
-    "duration": 239
+    "start": 19530,
+    "duration": 299
   },
   {
     "content": "values,",
-    "start": 21060,
-    "duration": 449
+    "start": 19830,
+    "duration": 389
   },
   {
     "content": "voice,",
-    "start": 21510,
-    "duration": 359
+    "start": 20220,
+    "duration": 299
   },
   {
     "content": "and",
-    "start": 21870,
+    "start": 20520,
     "duration": 119
   },
   {
     "content": "visuals.",
-    "start": 21990,
-    "duration": 509
+    "start": 20640,
+    "duration": 449
   },
   {
-    "content": "And",
-    "start": 22800,
-    "duration": 149
-  },
-  {
-    "content": "the",
-    "start": 22950,
+    "content": "The",
+    "start": 21480,
     "duration": 89
   },
   {
     "content": "entire",
-    "start": 23040,
-    "duration": 479
+    "start": 21570,
+    "duration": 389
   },
   {
     "content": "guide",
-    "start": 23520,
+    "start": 21960,
     "duration": 299
   },
   {
     "content": "is",
-    "start": 23820,
+    "start": 22260,
     "duration": 149
   },
   {
     "content": "completely",
-    "start": 23970,
+    "start": 22410,
     "duration": 569
   },
   {
     "content": "free.",
-    "start": 24540,
-    "duration": 389
+    "start": 22980,
+    "duration": 359
   },
   {
-    "content": "Check",
-    "start": 25410,
+    "content": "Click",
+    "start": 23580,
     "duration": 239
   },
   {
-    "content": "out",
-    "start": 25650,
+    "content": "the",
+    "start": 23820,
     "duration": 119
   },
   {
-    "content": "the",
-    "start": 25770,
-    "duration": 89
-  },
-  {
     "content": "link",
-    "start": 25860,
-    "duration": 209
+    "start": 23940,
+    "duration": 179
   },
   {
     "content": "to",
-    "start": 26070,
+    "start": 24120,
     "duration": 119
   },
   {
     "content": "download",
-    "start": 26190,
-    "duration": 389
+    "start": 24240,
+    "duration": 359
   },
   {
     "content": "it.",
-    "start": 26580,
-    "duration": 120
+    "start": 24600,
+    "duration": 149
   }
 ]
