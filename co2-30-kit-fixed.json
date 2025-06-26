@@ -1,237 +1,212 @@
 [
   {
     "content": "Learn",
-    "start": 0,
-    "duration": 359
+    "start": 90,
+    "duration": 239
   },
   {
     "content": "about",
-    "start": 360,
-    "duration": 299
+    "start": 330,
+    "duration": 239
   },
   {
     "content": "social",
-    "start": 660,
-    "duration": 389
+    "start": 570,
+    "duration": 329
   },
   {
     "content": "strategy",
-    "start": 1050,
-    "duration": 569
+    "start": 900,
+    "duration": 449
   },
   {
     "content": "from",
-    "start": 1620,
-    "duration": 209
+    "start": 1350,
+    "duration": 179
   },
   {
     "content": "experts",
-    "start": 1830,
+    "start": 1530,
     "duration": 539
   },
   {
     "content": "who",
-    "start": 2370,
-    "duration": 89
+    "start": 2190,
+    "duration": 149
   },
   {
     "content": "increased",
-    "start": 2460,
+    "start": 2340,
     "duration": 449
   },
   {
     "content": "their",
-    "start": 2910,
+    "start": 2790,
     "duration": 179
   },
   {
     "content": "engagement",
-    "start": 3090,
-    "duration": 659
+    "start": 2970,
+    "duration": 539
   },
   {
     "content": "by",
-    "start": 3750,
-    "duration": 209
+    "start": 3510,
+    "duration": 239
   },
   {
     "content": "158%.",
-    "start": 3960,
-    "duration": 1499
+    "start": 3750,
+    "duration": 1319
   },
   {
     "content": "HubSpot's",
-    "start": 6984,
-    "duration": 660
+    "start": 5850,
+    "duration": 599
   },
   {
     "content": "Social",
-    "start": 7645,
-    "duration": 539
+    "start": 6780,
+    "duration": 389
   },
   {
     "content": "Media",
-    "start": 8185,
-    "duration": 419
+    "start": 7170,
+    "duration": 299
   },
   {
     "content": "Content",
-    "start": 8605,
-    "duration": 509
+    "start": 7470,
+    "duration": 419
   },
   {
     "content": "Calendar",
-    "start": 9115,
-    "duration": 449
+    "start": 7890,
+    "duration": 419
   },
   {
     "content": "Template",
-    "start": 9565,
-    "duration": 539
+    "start": 8310,
+    "duration": 389
   },
   {
     "content": "includes",
-    "start": 10495,
-    "duration": 629
+    "start": 9060,
+    "duration": 479
   },
   {
     "content": "everything",
-    "start": 11335,
-    "duration": 569
+    "start": 9540,
+    "duration": 509
   },
   {
     "content": "you",
-    "start": 11905,
-    "duration": 118
+    "start": 10050,
+    "duration": 119
   },
   {
     "content": "need",
-    "start": 12024,
-    "duration": 300
+    "start": 10170,
+    "duration": 299
   },
   {
     "content": "for",
-    "start": 12325,
+    "start": 10470,
     "duration": 149
   },
   {
     "content": "social:",
-    "start": 12475,
-    "duration": 599
-  },
-  {
-    "content": "monthly",
-    "start": 13705,
-    "duration": 478
-  },
-  {
-    "content": "planning",
-    "start": 14184,
-    "duration": 450
-  },
-  {
-    "content": "calendars,",
-    "start": 14635,
-    "duration": 629
-  },
-  {
-    "content": "content",
-    "start": 15475,
-    "duration": 539
-  },
-  {
-    "content": "repositories,",
-    "start": 16015,
-    "duration": 929
-  },
-  {
-    "content": "best",
-    "start": 17125,
-    "duration": 419
-  },
-  {
-    "content": "posting",
-    "start": 17545,
+    "start": 10620,
     "duration": 509
   },
   {
+    "content": "monthly",
+    "start": 11640,
+    "duration": 329
+  },
+  {
+    "content": "planning",
+    "start": 11970,
+    "duration": 359
+  },
+  {
+    "content": "calendars,",
+    "start": 12330,
+    "duration": 569
+  },
+  {
+    "content": "content",
+    "start": 13140,
+    "duration": 419
+  },
+  {
+    "content": "repositories,",
+    "start": 13560,
+    "duration": 809
+  },
+  {
+    "content": "best",
+    "start": 14640,
+    "duration": 239
+  },
+  {
+    "content": "posting",
+    "start": 14880,
+    "duration": 359
+  },
+  {
     "content": "times,",
-    "start": 18055,
+    "start": 15240,
     "duration": 479
   },
   {
     "content": "and",
-    "start": 18895,
+    "start": 15990,
     "duration": 179
   },
   {
     "content": "platform-specific",
-    "start": 19075,
-    "duration": 598
+    "start": 16170,
+    "duration": 928
   },
   {
-    "content": "guides,",
-    "start": 19674,
-    "duration": 569
-  },
-  {
-    "content": "and",
-    "start": 21595,
-    "duration": 299
-  },
-  {
-    "content": "it's",
-    "start": 21895,
-    "duration": 209
-  },
-  {
-    "content": "all",
-    "start": 22105,
-    "duration": 449
-  },
-  {
-    "content": "100%",
-    "start": 22555,
-    "duration": 889
-  },
-  {
-    "content": "free.",
-    "start": 23515,
-    "duration": 448
+    "content": "guides.",
+    "start": 17100,
+    "duration": 939
   },
   {
     "content": "Download",
-    "start": 24830,
-    "duration": 569
+    "start": 20835,
+    "duration": 389
   },
   {
     "content": "the",
-    "start": 25400,
+    "start": 21225,
     "duration": 89
   },
   {
     "content": "template",
-    "start": 25490,
-    "duration": 479
+    "start": 21315,
+    "duration": 359
   },
   {
     "content": "today",
-    "start": 25970,
+    "start": 21675,
     "duration": 269
   },
   {
     "content": "to",
-    "start": 26240,
-    "duration": 119
+    "start": 21945,
+    "duration": 89
   },
   {
     "content": "get",
-    "start": 26360,
-    "duration": 269
+    "start": 22035,
+    "duration": 179
   },
   {
     "content": "started.",
-    "start": 26630,
-    "duration": 539
+    "start": 22215,
+    "duration": 419
   }
 ]
